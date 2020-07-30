@@ -4,6 +4,8 @@
 
 The Student Management System for Online Learning (SMSOL) is a easy to use Web Application for busy teachers to organize student meetings. This application allows teachers to add students to their list, drag and drop them to the interactive calendar and delete or reschedule as needed. When adding students a modal will appear to input the student information. The modal will also be a useful tool for updating currently scheduled students or deleting students from the calendar.
 
+![App Image](https://user-images.githubusercontent.com/58078950/88947644-d0334080-d25e-11ea-8384-051031b01d64.png)
+
 ## Table of Contents
 
 
